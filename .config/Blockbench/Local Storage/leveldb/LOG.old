@@ -1,0 +1,7 @@
+2023/09/30-12:07:21.383 b623 Reusing MANIFEST /home/xab/.config/Blockbench/Local Storage/leveldb/MANIFEST-000001
+2023/09/30-12:07:21.384 b623 Recovering log #118
+2023/09/30-12:07:21.384 b623 Level-0 table #121: started
+2023/09/30-12:07:21.386 b623 Level-0 table #121: 36601 bytes OK
+2023/09/30-12:07:21.386 b623 Recovering log #120
+2023/09/30-12:07:21.386 b623 Reusing old log /home/xab/.config/Blockbench/Local Storage/leveldb/000120.log 
+2023/09/30-12:07:21.389 b623 Delete type=0 #118

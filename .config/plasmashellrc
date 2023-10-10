@@ -1,0 +1,36 @@
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbQAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAAAugAAAAEAAAAAAAAD6AAAAABk
+
+[ConfigDialog]
+1920x1080 screen: Height=550
+1920x1080 screen: Width=787
+
+[General]
+Number of Actions=0
+
+[KFileDialog Settings]
+Recent Files[$e]=lmms-1.2.2-linux-x86_64.AppImage,file:///usr/local/bin/TreeMaker,file:$HOME/_dev/_godot/4/0/1/Godot_v4.0.1-stable_linux.x86_64,file:///usr/bin/discord,file:$HOME/_dev/_godot/4/0/Godot_v4.0-stable_linux.x86_64,file:$HOME/blender/launcher/Blender Launcher.desktop,file:$HOME/blender/launcher/Blender Launcher Updater,file:$HOME/blender/launcher/Blender Launcher,file:$HOME/_dev/_godot/4/rc/2/Godot_v4.0-rc2_linux.x86_64,file:$HOME/_dev/_godot/icon-godot.png,file:$HOME/_dev/_godot/4/Beta/16/Godot_v4.0-beta16_linux.x86_64,file:$HOME/apll/Pixelorama/Pixelorama.x86_64,file:$HOME/.steam/steam/steamapps/common/ULTRAKILL/Cybergrind/Textures/Glows/ebalo-emission.png,file:$HOME/appi/lmms/lmms-1.2.2-linux-x86_64.AppImage
+Recent URLs[$e]=file:$HOME/.steam/steam/steamapps/common/ULTRAKILL/Cybergrind/Textures/Glows/,file:$HOME/apll/Pixelorama/,file:$HOME/_dev/_godot/4/Beta/16/,file:$HOME/_dev/_godot/,file:$HOME/_dev/_godot/4/rc/2/,file:$HOME/blender/launcher/,file:$HOME/,file:$HOME/_dev/_godot/4/0/,file:///usr/bin/,file:$HOME/_dev/_godot/4/0/1/,file:///usr/local/bin/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=520
+1920x1080 screen: Width=439
+DP-1 Height 1920x1080 DP-1=529
+DP-1 Width 1920x1080 DP-1=443
+
+[PlasmaTransientsConfig]
+PreloadWeight=2
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 24]
+floating=1
+panelOpacity=1
+
+[PlasmaViews][Panel 24][Defaults]
+thickness=26
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js

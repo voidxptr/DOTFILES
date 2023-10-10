@@ -1,0 +1,39 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[MainWindow]
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=684
+1920x1080 screen: YPosition=366
+DP-1=DP-1
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAE2AAADhPwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAABgAAADhP////8A///+AAADpgAAA4QAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/blender/_/shool/renders/1.png
+File10[$e]=$HOME/Pictures/Screenshots/1696761004.png
+File2[$e]=$HOME/blender/_/shool/renders/_/inside.png
+File3[$e]=$HOME/Downloads/reeeee.png
+File4[$e]=$HOME/Downloads/BSW2023_HochrechnungLandBremen_Grafik2130.pdf
+File5[$e]=$HOME/Downloads/Anmeldebestaetigung - Zukunftstag.pdf
+File6[$e]=$HOME/Downloads/utf-8''Aufnahmeantrag%20BVL%2021.06.14.pdf
+File7[$e]=$HOME/Downloads/Bestätigung Betriebe Praktikum Klasse 9 2023-24.pdf
+File8[$e]=$HOME/Pictures/Screenshots/1691360291.png
+File9[$e]=$HOME/Pictures/Screenshots/tobs.jpg
+Name1[$e]=1.png
+Name10[$e]=1696761004.png
+Name2[$e]=inside.png
+Name3[$e]=reeeee.png
+Name4[$e]=BSW2023_HochrechnungLandBremen_Grafik2130.pdf
+Name5[$e]=Anmeldebestaetigung - Zukunftstag.pdf
+Name6[$e]=utf-8''Aufnahmeantrag%20BVL%2021.06.14.pdf
+Name7[$e]=Bestätigung Betriebe Praktikum Klasse 9 2023-24.pdf
+Name8[$e]=1691360291.png
+Name9[$e]=tobs.jpg
+
+[UiSettings]
+ColorScheme=Krita dark

@@ -1,0 +1,21 @@
+2023/10/06-15:54:59.649 543d Reusing MANIFEST /home/xab/.config/Blockbench/Local Storage/leveldb/MANIFEST-000001
+2023/10/06-15:54:59.650 543d Recovering log #120
+2023/10/06-15:54:59.651 543d Reusing old log /home/xab/.config/Blockbench/Local Storage/leveldb/000120.log 
+2023/10/06-16:17:35.209 543e Level-0 table #124: started
+2023/10/06-16:17:35.211 543e Level-0 table #124: 38885 bytes OK
+2023/10/06-16:17:35.212 543e Delete type=0 #120
+2023/10/06-16:21:14.171 543e Level-0 table #126: started
+2023/10/06-16:21:14.173 543e Level-0 table #126: 34787 bytes OK
+2023/10/06-16:21:14.174 543e Delete type=0 #123
+2023/10/06-16:21:14.174 543e Compacting 4@0 + 1@1 files
+2023/10/06-16:21:14.179 543e Generated table #127@0: 17 keys, 137795 bytes
+2023/10/06-16:21:14.179 543e Compacted 4@0 + 1@1 files => 137795 bytes
+2023/10/06-16:21:14.181 543e compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/06-16:21:14.181 543e Delete type=2 #117
+2023/10/06-16:21:14.181 543e Delete type=2 #119
+2023/10/06-16:21:14.181 543e Delete type=2 #121
+2023/10/06-16:21:14.181 543e Delete type=2 #124
+2023/10/06-16:21:14.181 543e Delete type=2 #126
+2023/10/06-16:26:27.636 543e Level-0 table #129: started
+2023/10/06-16:26:27.638 543e Level-0 table #129: 41235 bytes OK
+2023/10/06-16:26:27.639 543e Delete type=0 #125

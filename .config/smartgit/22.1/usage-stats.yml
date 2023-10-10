@@ -1,0 +1,5 @@
+header: {started: 1679931151157, uid: x297336458, licenseType: evaluation, build: 19259,
+  os: linux, osv: 6.2.5-arch1-1, transferred: 1679931151157}
+stats:
+  window.std: {invocations: 1, invocationLast: 20230327, invocationDays: 1}
+  changesview.syntax.<unknown>: {invocations: 1, invocationLast: 20230327, invocationDays: 1}

@@ -1,0 +1,213 @@
+
+(defpoll time :interval "60s"
+	:initial "now"
+	:run-while true
+	"date +%H:%M")
+
+(defpoll date :interval "60s"
+	:initial "now"
+	:run-while true
+	"date +%d/%m/%y")
+
+
+
+
+(defwidget hardware []
+		(box
+			:class "hardInfoMenu"
+			:spacing "5"
+			:orientation "h"
+			:halign "end1"
+
+			(box
+			:class "hardInfoBox"
+			:spacing "0"
+			:orientation "h"
+			:halign "end"
+
+		(label :text "CPU:  ${round(EWW_CPU.avg,1)}%"
+			:class "hardInfoLabel"))
+			
+			(box
+			:class "hardInfoBox"
+			:spacing "0"
+			:orientation "h"
+			:halign "end"
+
+		(label :text "RAM: ${round(EWW_RAM.used_mem_perc,1)}%"
+			:class "hardInfoLabel"))))
+(defwidget power []
+		(box
+			:spacing "5"
+			:orientation "h"
+			:halign "end"
+		
+		(button :class "powerMenuButton"
+			:onclick "shutdown now"
+			:halign "end"
+			"Shutdown")
+			
+		(button :class "powerMenuButton"
+			:onclick "shutdown -r now"
+			:halign "end"
+			"Reboot")
+
+		(button :class "powerMenuButton"
+			:onclick "hyprctl dispatch exit"
+			:halign "end"
+			"Logout")))
+
+
+(defwidget powerMenu []
+	
+	
+	(box 
+		:orientation "h"
+		:spacing "7"
+		:class "powerMenu"
+			(power
+				:halign "end"
+			)
+
+			(hardware
+				:halign "end"
+			)	
+
+		))	
+			
+	
+
+
+(defwidget timeAndDate []
+	(box :class "calenderBox"
+		:spacing "5"
+		:orientation "h"
+		time date))
+
+(defwidget rmenu []
+	(box :class "rmenuBox"
+		:halign "end"
+		:spacing "20"
+		:orientation "h"
+		:space-evenly "false"
+		(powerMenu)
+		(timeAndDate)))
+
+
+(defpoll curWorkspace :interval "0.5s"
+	:initial ""
+	:run-while true
+	"hyprctl activeworkspace -j")
+
+(defwidget workspace [id]
+	(button :class { curWorkspace["id"] == id ? "workspaceButtonActive" : "workspaceButton"} 	
+		:onclick "hyprctl dispatch workspace ${id}"
+		:onrightclick "hyprctl dispatch movetoworkspace ${id}"
+		"|${id}|"))
+
+(defwidget firefox []
+	(button :class "firefoxButton"
+		:onclick "firefox"
+		"Firefox"))
+
+(defwidget nnn []
+	(button :class "nnnButton"
+		:onclick "hyprctl dispatch exec dolphin"
+		"Dolphin"))
+
+(defwidget kitr []
+	(button :class "kitrButton"
+		:onclick "hyprctl dispatch exec kitty"
+		"Kitr"))
+
+(defwidget tools [] 
+	(box :class "panelBox"
+		:spacing "5"
+		:orientation "h"
+		:space-evenly "false"
+	(kitr)	
+	(firefox)
+	(nnn)
+	
+	(label :text "........"
+		:class "spacer"
+	)
+
+	(workspace :id 1)
+	(workspace :id 2)
+	(workspace :id 3)
+	(workspace :id 4)
+	(workspace :id 5)
+	(workspace :id 6)
+	(workspace :id 7)
+	(workspace :id 8)
+	(workspace :id 9)
+
+	))
+
+
+(defpoll windowName :interval "0.5s"
+	:initial ""
+	:run-while true
+	"hyprctl activewindow -j")
+
+(defwindow bar
+	:class "bar"
+	:monitor 0
+	:geometry (geometry :x "0px"	
+		:y "10px"
+		:width "98%"
+		:hight "10px"
+		:anchor "top center"						
+	)
+	:stacking "fg"
+	:exclusive true
+	
+	(centerbox :class "panelBox" 
+		:orientation "h"
+
+		(tools)
+		
+		(label :text "${windowName["title"]}"
+			:limit-width "69"
+
+		)
+
+		(rmenu)))
+
+
+(defvar bottomButtonState "false")
+
+
+(defwindow bottom
+	:class "bottom"
+	:monitor 0
+	:geometry (geometry :x "0px"	
+		:y "0px"
+		:width "10%"
+		:hight "5px"
+		:anchor "bottom center"						
+	)
+
+	:stacking "fg"
+	:exclusive true
+
+	(button :class "bottomButton"
+		:onclick "eww update bottomButtonState=${bottomButtonState == "true" ? "false" : "true"}"
+		
+		(box
+			:orientation "h"
+			:spacing "0"
+
+			(expander
+				:expanded bottomButtonState
+				
+				(label :text "benis"
+					:class "bottomButtonLabel"
+				)
+			)
+		)
+		)
+	)
+
+

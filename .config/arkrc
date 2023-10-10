@@ -1,0 +1,152 @@
+[ExtractDialog]
+1920x1080 screen: Window-Maximized=true
+DirHistory[$e]=$HOME/steamapps/common/PAYDAY3/PAYDAY3/Content/Movies/,$HOME/steamapps/common/PAYDAY3/PAYDAY3/Content/Paks/~mods/,$HOME/_dev/,$HOME/Downloads/,$HOME/payday3ServerShitFuckBallsPENIS/,$HOME/music/vst/,$HOME/_dev/_godot/4/1/1/,$HOME/crackmes/,$HOME/crackmes/LC0x02/,$HOME/lmms/samples/soundfonts/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME/steamapps/common/PAYDAY3/PAYDAY3/Content/Movies
+Recent URLs[$e]=file:$HOME/,file:$HOME/crackmes/LC0x02/,file:$HOME/crackmes/,file:$HOME/_dev/_godot/4/1/1/,file:$HOME/music/vst/,file:$HOME/payday3ServerShitFuckBallsPENIS/,file:$HOME/steamapps/common/PAYDAY3/PAYDAY3/Content/Paks/~mods/,file:$HOME/steamapps/common/PAYDAY3/PAYDAY3/Content/Paks/,file:$HOME/Downloads/,file:$HOME/_dev/,file:$HOME/steamapps/common/PAYDAY3/PAYDAY3/Content/Movies/
+detailViewIconSize=16
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+Auto Detect Indent=true
+Auto Reload If State Is In Version Control=true
+Auto Save=false
+Auto Save Interval=0
+Auto Save On Focus Out=false
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Camel Cursor=true
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=10000
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=1
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO 8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Font=Hack,10,-1,7,50,0,0,0,0,0
+Line Height Multiplier=1
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=true
+Auto Center Lines=0
+Auto Completion=true
+Auto Completion Preselect First Entry=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Bracket Match Preview=false
+Chars To Enclose Selection=<>(){}[]'"
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Enable Tab completion=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=true
+Line Numbers=true
+Max Clipboard History Entries=20
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Multiple Cursor Modifier=134217728
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map All=true
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Shoe Line Ending Type in Statusbar=false
+Show Documentation With Completion=true
+Show File Encoding=true
+Show Focus Frame Around Editor=true
+Show Folding Icons On Hover Only=true
+Show Line Count=false
+Show Scrollbars=0
+Show Statusbar Dictionary=true
+Show Statusbar Highlighting Mode=true
+Show Statusbar Input Mode=true
+Show Statusbar Line Column=true
+Show Statusbar Tab Settings=true
+Show Word Count=false
+Smart Copy Cut=true
+Statusbar Line Column Compact Mode=true
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[MainWindow]
+1920x1080 screen: Height=1022
+1920x1080 screen: Width=1920
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=58
+DP-1=DP-1
+DP-1 XPosition 1920x1080 DP-1=485
+DP-1 YPosition 1920x1080 DP-1=264
+State=AAAA/wAAAAD9AAAAAQAAAAEAAAClAAADv/wCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAlAAADvwAAAHAA///+AAAC+wAAA78AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=415,208
+
+[Viewer]
+1920x1080 screen: Height=1014
+1920x1080 screen: Width=1912
+1920x1080 screen: XPosition=4
+1920x1080 screen: YPosition=62
+DP-1=DP-1
+State=AAAA/wAAAAD9AAAAAAAAB3gAAAPYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAA=
+ToolBarsMovable=Disabled

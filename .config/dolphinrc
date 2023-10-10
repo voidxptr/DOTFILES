@@ -1,0 +1,37 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[CreateDialog]
+LastMimeType=application/x-compressed-tar
+
+[ExtractDialog]
+1920x1080 screen: Height=560
+1920x1080 screen: Width=1280
+DP-1 Height 1920x1080 DP-1=560
+DP-1 Width 1920x1080 DP-1=1280
+DirHistory[$e]=$HOME/apll/sd_balls/,$HOME/_dev/SonsOfTheBullshit/src/jsoncpp/
+
+[General]
+Version=202
+ViewPropsTimestamp=2023,1,30,12,48,26.247
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME/_dev/SonsOfTheBullshit/src,file:$HOME/apll/sd_balls
+Recent URLs[$e]=file:$HOME/apll/sd_balls/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=520
+1920x1080 screen: Width=999
+1920x1080 screen: Window-Maximized=true
+DP-1 Height 1920x1080 DP-1=588
+DP-1 Width 1920x1080 DP-1=537
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail

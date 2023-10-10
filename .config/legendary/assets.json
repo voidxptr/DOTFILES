@@ -1,0 +1,15 @@
+{
+  "Windows": [
+    {
+      "app_name": "7d6b8784bab94d6cac5fea5ab7bb07a4",
+      "asset_id": "7d6b8784bab94d6cac5fea5ab7bb07a4",
+      "build_version": "1.139.195",
+      "catalog_item_id": "d916a61ddce3414bac1bbf0049ca6f7a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0051a559019d4787b79889825de9d73a"
+      },
+      "namespace": "3b661fd6a9724ac7b6ac6d10d0572511"
+    }
+  ]
+}

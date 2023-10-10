@@ -1,0 +1,42 @@
+if !has('gui_is_running') && &t_Co < 256
+    finish
+endif
+
+set background=dark
+
+hi clear
+
+if exists('syntax_on')
+    syntax reset
+endif
+
+let g:colors_name = 'traube'
+
+" Purple    : #d389ed
+" Blue      : #89b3ed
+" Yellow    : #eddd89
+" Green     : #89ed9e
+" Pink      : #ed89be
+
+
+hi! Normal          guibg=#242124 guifg=#e9f2ec
+hi! EndOfBuffer     guibg=#242124 guifg=#e9f2ec
+
+hi! Error           guifg=#e0d6dd
+
+hi! Constant        guifg=#e0d847
+
+hi! Identifier      guifg=#4787e0
+
+hi! Statement       guifg=#b0b8ff
+
+hi! Function        guifg=#ed89be
+
+hi! Type            guifg=#ed89be
+
+hi! Special         guifg=#89ed9e
+hi! PreProc         guifg=#89ed9e
+
+
+hi! LineNr          guibg=#2d292d guifg=#b0c09f
+hi! StatusLine      guibg=#2c2d36

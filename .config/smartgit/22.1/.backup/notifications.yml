@@ -1,0 +1,4 @@
+readNotifications: [gc.autoDetach-null, 'demo-reminder-Mon Mar 27 00:59:00 CEST 2023-null']
+dontPublishNotifications: [std.experimental-null, linux.theme-null]
+dontPublishUntil-std.experimental-null: 0
+dontPublishUntil-linux.theme-null: 0

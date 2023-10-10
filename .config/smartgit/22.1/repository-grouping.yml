@@ -1,0 +1,25 @@
+structure:
+- name: ~
+  children:
+  - {name: snapd, path: ~/snapd, path.absolute: /home/xab/snapd}
+  - name: _dev
+    children:
+    - {name: Timmy, path: ~/_dev/Timmy, path.absolute: /home/xab/_dev/Timmy}
+    - {name: BeatGenCpp, path: ~/_dev/BeatGenCpp, path.absolute: /home/xab/_dev/BeatGenCpp}
+    - name: imGuiTest
+      children:
+      - {name: imgui, path: ~/_dev/imGuiTest/imgui, path.absolute: /home/xab/_dev/imGuiTest/imgui}
+      expanded: false
+    - name: qm
+      children:
+      - {name: Nya-quest, path: ~/_dev/qm/Nya-quest, path.absolute: /home/xab/_dev/qm/Nya-quest}
+      expanded: false
+    - {name: movement_fps, path: ~/_dev/movement_fps, path.absolute: /home/xab/_dev/movement_fps}
+    expanded: false
+  - name: Downloads
+    children:
+    - {name: yay, path: ~/Downloads/yay, path.absolute: /home/xab/Downloads/yay}
+    expanded: false
+  expanded: true
+recentlyUsed: [~/_dev/movement_fps, ~/_dev/qm/Nya-quest, ~/_dev/imGuiTest/imgui, ~/Downloads/yay,
+  ~/snapd, ~/_dev/BeatGenCpp, ~/_dev/Timmy]

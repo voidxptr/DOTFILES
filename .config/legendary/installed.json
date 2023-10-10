@@ -1,0 +1,29 @@
+{
+  "7d6b8784bab94d6cac5fea5ab7bb07a4": {
+    "app_name": "7d6b8784bab94d6cac5fea5ab7bb07a4",
+    "base_urls": [
+      "https://fastly-download.epicgames.com/Builds/Org/o-p8dyby5wsvpu4yezxdg24d555hsyz3/14eb3477a6084940b49de5aa73c60f98/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-p8dyby5wsvpu4yezxdg24d555hsyz3/14eb3477a6084940b49de5aa73c60f98/default",
+      "https://download.epicgames.com/Builds/Org/o-p8dyby5wsvpu4yezxdg24d555hsyz3/14eb3477a6084940b49de5aa73c60f98/default",
+      "https://download2.epicgames.com/Builds/Org/o-p8dyby5wsvpu4yezxdg24d555hsyz3/14eb3477a6084940b49de5aa73c60f98/default",
+      "https://download3.epicgames.com/Builds/Org/o-p8dyby5wsvpu4yezxdg24d555hsyz3/14eb3477a6084940b49de5aa73c60f98/default",
+      "https://download4.epicgames.com/Builds/Org/o-p8dyby5wsvpu4yezxdg24d555hsyz3/14eb3477a6084940b49de5aa73c60f98/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "payday2_win32_release.exe",
+    "install_path": "/home/xab/Games/Heroic/PAYDAY2",
+    "install_size": 86222386837,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "-epic",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": "/home/xab/Games/Heroic/Prefixes/default/PAYDAY 2/pfx/drive_c/users/steamuser/AppData/Local/PAYDAY 2/saves/9f32426f95994b2d91eb86cbbb785634",
+    "title": "PAYDAY 2",
+    "version": "1.139.195"
+  }
+}

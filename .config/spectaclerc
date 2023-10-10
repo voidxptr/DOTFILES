@@ -1,0 +1,15 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+captureMode=0
+window-position=819,34
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/_dev/movement_fps/Screenshot_20230301_214236.png,file:$HOME/reeeee.png,file:$HOME/benis.png
+Recent URLs[$e]=file:$HOME/_dev/movement_fps/,file:$HOME/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/xab/reeeee.png
+lastSaveLocation=file:///home/xab/reeeee.png

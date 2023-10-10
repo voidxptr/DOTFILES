@@ -1,0 +1,129 @@
+
+
+$foreground: #ffffff;
+$background: #353033;
+$red: #ff9999;
+$green: #99ee99;
+$blue: #9999ff;
+$yellow: #ffff99;
+$orange: #ff9779;
+$purple: #ff99ff;
+$cyan: #99ffff;
+
+$font-size: 10px;
+
+
+.bar{
+	background: rgba(0,0,0,0);
+}
+
+.kitrButton{
+	font-size: $font-size;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 5px;
+	border: 2px solid $purple;
+}
+
+.workspaceButton{
+	font-size: $font-size;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 5px;
+	border: 2px solid $red;
+}
+
+.workspaceButtonActive{
+	font-size: $font-size;
+	font-weight: bold;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 5px;
+	border: 2px solid $green;
+}
+
+.firefoxButton{
+	font-size: $font-size;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 5px;
+	border: 2px solid $orange;
+}
+
+.nnnButton{
+	font-size: $font-size;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 5px;
+	border: 2px solid $cyan;
+}
+
+.calenderBox{
+	font-size: $font-size;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 5px;
+	border: 2px solid $green;
+}
+
+
+.powerMenuLabel{
+	font-size: $font-size;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 0px 5px;
+	border: 1px solid $yellow;
+}
+
+.powerMenuButton{
+	font-size: $font-size;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 0px 5px;
+	border: 2px solid $red;
+}
+
+.powerMenu{
+	background: rgba(0,0,0,0);
+}
+
+.hardInfoMenu{
+	background: rgba(0,0,0,0);
+}
+
+.hardInfoLabel{
+	font-size: $font-size;
+	color: $foreground;
+	border-radius: 15px;
+	padding: 1px 5px;
+}
+
+.hardInfoBox{
+	font-size: $font-size;
+	color: $foreground;
+	background: $background;
+	border-radius: 15px;
+	padding: 0px;
+	border: 2px solid $blue;
+}
+
+.hardInfoItem{
+	color: $blue;
+	background: $green;
+	border-radius: 25px;
+	padding: 1px;
+	border: 100px solid $blue;
+}
+
+.spacer{
+	
+	opacity: 0; 
+}

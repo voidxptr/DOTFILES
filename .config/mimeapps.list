@@ -1,0 +1,34 @@
+[Added Associations]
+application/octet-stream=nvim.desktop;
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
+x-scheme-handler/http=org.mozilla.firefox.desktop;firefox.desktop;
+x-scheme-handler/https=org.mozilla.firefox.desktop;firefox.desktop;
+x-scheme-handler/chrome=firefox.desktop;
+text/html=firefox.desktop;
+application/x-extension-htm=firefox.desktop;
+application/x-extension-html=firefox.desktop;
+application/x-extension-shtml=firefox.desktop;
+application/xhtml+xml=firefox.desktop;
+application/x-extension-xhtml=firefox.desktop;
+application/x-extension-xht=firefox.desktop;
+
+[Default Applications]
+application/octet-stream=nvim.desktop;
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/etcher=balena-etcher.desktop
+x-scheme-handler/freetube=freetube.desktop
+x-scheme-handler/geo=qwant-maps-geo-handler.desktop;
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/sidequest=SideQuest.desktop
+x-scheme-handler/chrome=firefox.desktop
+text/html=firefox.desktop
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/x-extension-xht=firefox.desktop
+dorion=dorion-handler.desktop
+application/uproject=com.epicgames.UnrealEngineEditor.desktop

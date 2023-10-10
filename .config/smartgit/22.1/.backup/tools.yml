@@ -1,0 +1,21 @@
+tools:
+- id: openFile
+  name: Open File
+  fileStarter: {command: /usr/bin/gio, parameters: 'open ${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: true
+- id: revealInDolphin
+  name: Reveal in Dolphin
+  fileStarter: {command: /usr/bin/dolphin, parameters: '--select -- ${fileUri}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+- id: openKonsole
+  name: Open Konsole
+  fileStarter: {command: /usr/bin/konsole, parameters: '--workdir ${filePath}'}
+  useForOpen: true
+  waitUntilFinished: false
+  filePattern: '*'
+  forFilesNotDirectories: false

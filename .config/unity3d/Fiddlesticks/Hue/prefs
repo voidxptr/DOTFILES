@@ -1,0 +1,23 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="CollectablesUnlocked" type="int">8</pref>
+	<pref name="ColoursUnlocked" type="int">4</pref>
+	<pref name="CurrentLevel" type="string">Qm91bGRlclRyYXAwMg==</pref>
+	<pref name="CurrentRegion" type="int">2</pref>
+	<pref name="DoorOffsetX" type="float">-0.173218</pref>
+	<pref name="DoorOffsetY" type="float">0.446275</pref>
+	<pref name="DoorOffsetZ" type="float">-0.03</pref>
+	<pref name="EventsTriggered" type="int">67111015</pref>
+	<pref name="Language" type="string">ZW5nbGlzaA==</pref>
+	<pref name="LastDoor" type="int">0</pref>
+	<pref name="LettersUnlocked" type="int">6</pref>
+	<pref name="Options" type="int">12</pref>
+	<pref name="ProgressPercentage" type="int">13</pref>
+	<pref name="RegionsUnlocked" type="int">7</pref>
+	<pref name="ScreenHeight" type="int">1080</pref>
+	<pref name="ScreenWidth" type="int">1920</pref>
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="TutorialsCompleted" type="int">11</pref>
+	<pref name="UnitySelectMonitor" type="int">-1</pref>
+</unity_prefs>

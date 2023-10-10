@@ -1,0 +1,154 @@
+19:56:41.807: Platform: Wayland
+19:56:41.807: CPU Name: AMD Ryzen 5 3350G with Radeon Vega Graphics
+19:56:41.807: CPU Speed: 2661.368MHz
+19:56:41.808: Physical Cores: 4, Logical Cores: 8
+19:56:41.808: Physical Memory: 15938MB Total, 1789MB Free
+19:56:41.808: Kernel Version: Linux 6.4.10-arch1-1
+19:56:41.808: Distribution: "Crystal Linux" Unknown
+19:56:41.808: Desktop Environment: Hyprland
+19:56:41.808: Session Type: wayland
+19:56:41.810: Qt Version: 6.5.2 (runtime), 6.5.1 (compiled)
+19:56:41.810: Portable mode: false
+19:56:41.899: OBS 29.1.3-1 (linux)
+19:56:41.899: ---------------------------------
+19:56:41.900: ---------------------------------
+19:56:41.900: audio settings reset:
+19:56:41.900: 	samples per sec: 48000
+19:56:41.900: 	speakers:        2
+19:56:41.900: 	max buffering:   960 milliseconds
+19:56:41.900: 	buffering type:  dynamically increasing
+19:56:41.907: ---------------------------------
+19:56:41.907: Initializing OpenGL...
+19:56:41.907: Using EGL/Wayland
+19:56:41.956: Initialized EGL 1.5
+19:56:41.974: Loading up OpenGL on adapter AMD AMD Radeon RX 6750 XT (navi22, LLVM 15.0.7, DRM 3.52, 6.4.10-arch1-1)
+19:56:41.974: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.1.5, shading language 4.60
+19:56:42.013: ---------------------------------
+19:56:42.013: video settings reset:
+19:56:42.013: 	base resolution:   1920x1080
+19:56:42.013: 	output resolution: 1920x1080
+19:56:42.013: 	downscale filter:  Bicubic
+19:56:42.013: 	fps:               25/1
+19:56:42.013: 	format:            NV12
+19:56:42.013: 	YUV mode:          Rec. 709/Partial
+19:56:42.013: NV12 texture support not available
+19:56:42.013: P010 texture support not available
+19:56:42.017: Audio monitoring device:
+19:56:42.017: 	name: Default
+19:56:42.017: 	id: default
+19:56:42.017: ---------------------------------
+19:56:42.030: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:56:42.044: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+19:56:42.055: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:56:42.055: Failed to initialize module 'decklink.so'
+19:56:42.074: Failed to load 'en-GB' text for module: 'frontend-tools.so'
+19:56:42.337: Failed to load 'en-GB' text for module: 'linux-alsa.so'
+19:56:42.352: Failed to load 'en-GB' text for module: 'linux-capture.so'
+19:56:42.375: Failed to load 'en-GB' text for module: 'linux-jack.so'
+19:56:42.391: Failed to load 'en-GB' text for module: 'linux-pipewire-audio.so'
+19:56:42.416: Failed to load 'en-GB' text for module: 'linux-pipewire.so'
+19:56:42.417: [pipewire] Available captures:
+19:56:42.418: [pipewire]     - Desktop capture
+19:56:42.433: Failed to load 'en-GB' text for module: 'linux-pulseaudio.so'
+19:56:42.481: [obs-browser]: Version 2.21.1
+19:56:42.481: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures_143.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+19:56:42.633: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+19:56:42.633: FFmpeg VAAPI H264 encoding not supported
+19:56:42.633: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+19:56:42.633: FFmpeg VAAPI HEVC encoding not supported
+19:56:42.694: Failed to load 'en-GB' text for module: 'obs-vst.so'
+19:56:42.719: Failed to load 'en-GB' text for module: 'obs-websocket.so'
+19:56:42.719: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.2.3 | RPC Version: 1)
+19:56:42.719: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.5.1 | Qt version (run-time): 6.5.2
+19:56:42.719: [obs-websocket] [obs_module_load] Linked ASIO Version: 102800
+19:56:42.726: [obs-websocket] [obs_module_load] Module loaded.
+19:56:42.754: Failed to load 'en-GB' text for module: 'rtmp-services.so'
+19:56:42.785: ---------------------------------
+19:56:42.785:   Loaded Modules:
+19:56:42.785:     wlrobs.so
+19:56:42.785:     text-freetype2.so
+19:56:42.785:     rtmp-services.so
+19:56:42.785:     obs-x264.so
+19:56:42.785:     obs-websocket.so
+19:56:42.785:     obs-vst.so
+19:56:42.785:     obs-transitions.so
+19:56:42.785:     obs-outputs.so
+19:56:42.785:     obs-filters.so
+19:56:42.785:     obs-ffmpeg.so
+19:56:42.786:     obs-browser.so
+19:56:42.786:     linux-v4l2.so
+19:56:42.786:     linux-pulseaudio.so
+19:56:42.786:     linux-pipewire.so
+19:56:42.786:     linux-pipewire-audio.so
+19:56:42.786:     linux-jack.so
+19:56:42.786:     linux-capture.so
+19:56:42.786:     linux-alsa.so
+19:56:42.786:     image-source.so
+19:56:42.786:     frontend-tools.so
+19:56:42.786:     decklink-output-ui.so
+19:56:42.786:     decklink-captions.so
+19:56:42.786: ---------------------------------
+19:56:42.786: ==== Startup complete ===============================================
+19:56:42.871: All scene data cleared
+19:56:42.871: ------------------------------------------------
+19:56:42.880: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.77) 15.0.0'
+19:56:42.880: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+19:56:42.880: pulse-input: Started recording from 'alsa_output.pci-0000_0b_00.6.analog-stereo.monitor' (default)
+19:56:42.880: [Loaded global audio device]: 'Desktop-Audio'
+19:56:42.881: pulse-input: Server name: 'PulseAudio (on PipeWire 0.3.77) 15.0.0'
+19:56:42.881: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+19:56:42.881: pulse-input: Started recording from 'alsa_input.usb-Trust_USB_microphone_Trust_USB_microphone_20191101-00.mono-fallback'
+19:56:42.881: [Loaded global audio device]: 'Mikrofon-/AUX-Audio'
+19:56:42.882: PipeWire initialized
+19:56:42.885: Switched to scene 'Szene'
+19:56:42.885: ------------------------------------------------
+19:56:42.885: Loaded scenes:
+19:56:42.886: - scene 'Szene':
+19:56:42.886:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+19:56:42.886: ------------------------------------------------
+19:56:42.926: [pipewire] Screencast session created
+19:56:43.194: [pipewire] Failed to select source, denied or cancelled by user
+19:56:43.436: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mikrofon-/AUX-Audio)
+19:56:43.436: 
+19:56:43.458: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop-Audio)
+19:56:43.458: 
+19:56:46.100: ---------------------------------
+19:56:46.100: [x264 encoder: 'advanced_video_recording'] preset: veryfast
+19:56:46.100: [x264 encoder: 'advanced_video_recording'] settings:
+19:56:46.100: 	rate_control: CBR
+19:56:46.100: 	bitrate:      4500
+19:56:46.100: 	buffer size:  4500
+19:56:46.100: 	crf:          23
+19:56:46.100: 	fps_num:      25
+19:56:46.100: 	fps_den:      1
+19:56:46.100: 	width:        1920
+19:56:46.100: 	height:       1080
+19:56:46.100: 	keyint:       250
+19:56:46.100: 
+19:56:46.109: ---------------------------------
+19:56:46.110: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+19:56:46.110: 
+19:56:46.111: ==== Replay Buffer Start ===========================================
+19:56:46.116: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+19:56:48.224: PipeWire initialized
+19:57:08.225: [pipewire] Screencast session created
+19:57:09.432: [pipewire] Asking for desktop
+19:57:09.440: [pipewire] desktop selected, setting up screencast
+19:57:09.446: [pipewire] Server version: 0.3.77
+19:57:09.447: [pipewire] Library version: 0.3.77
+19:57:09.447: [pipewire] Header version: 0.3.72
+19:57:09.447: [pipewire] Created stream 0x55991c3c0910
+19:57:09.447: [pipewire] Stream 0x55991c3c0910 state: "connecting" (error: none)
+19:57:09.447: [pipewire] Playing stream 0x55991c3c0910
+19:57:09.447: [pipewire] Stream 0x55991c3c0910 state: "paused" (error: none)
+19:57:09.453: [pipewire] Negotiated format:
+19:57:09.453: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:57:09.453: [pipewire]     Modifier: 0x0
+19:57:09.453: [pipewire]     Size: 1920x1080
+19:57:09.453: [pipewire]     Framerate: 0/1
+19:57:09.455: [pipewire] Negotiated format:
+19:57:09.455: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:57:09.455: [pipewire]     Modifier: 0x20000001896bb03
+19:57:09.455: [pipewire]     Size: 1920x1080
+19:57:09.455: [pipewire]     Framerate: 0/1
+19:57:09.456: [pipewire] Stream 0x55991c3c0910 state: "streaming" (error: none)

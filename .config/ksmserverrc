@@ -1,0 +1,19 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=104f774f0000169356705700000008030004
+clientId2=104f774f0000167899492300000006420036
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/kgpg_104f774f0000167899492300000006420036_1693567108_31166
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kgpg
+restartCommand1=/usr/lib/DiscoverNotifier,-session,104f774f0000169356705700000008030004_1693567108_31147
+restartCommand2=/usr/bin/kgpg,-session,104f774f0000167899492300000006420036_1693567108_31166
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=xab
+userId2=xab

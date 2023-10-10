@@ -1,0 +1,11 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-a3b56891-3e41-4d3a-b0f3-0f1b65905e22]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=preferred://browser,org.kde.kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.discover.desktop
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-57-a3b56891-3e41-4d3a-b0f3-0f1b65905e22]
+ordering=applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:systemsettings.desktop,preferred://browser
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-57-global]
+ordering=applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:systemsettings.desktop,preferred://browser

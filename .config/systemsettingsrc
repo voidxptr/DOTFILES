@@ -1,0 +1,22 @@
+[KFileDialog Settings]
+Recent Files[$e]=VCR_OSD_MONO.ttf,file:$HOME/Downloads/VCR_OSD_MONO.ttf
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+1280x720 screen: Height=617
+1280x720 screen: Width=1020
+1280x720 screen: XPosition=213
+1280x720 screen: YPosition=99
+1920x1080 screen: Height=702
+1920x1080 screen: Width=1020
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=213
+1920x1080 screen: YPosition=459
+DP-1=DP-1
+DP-1 Window-Maximized 1920x1080 DP-1=true
+DP-1 XPosition 1920x1080 DP-1=394
+DP-1 YPosition 1920x1080 DP-1=190
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQgAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

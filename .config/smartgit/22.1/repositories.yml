@@ -1,0 +1,25 @@
+gitRootSettingsSet:
+  root/home/xab/_dev/movement_fps:
+    databaseCleanup: {}
+    log:
+      rootSettings: {}
+      fileFilterConfiguration: {}
+    merge:
+      logRootSettings: {}
+    push: {}
+    commitNotes:
+      commitNotesHistory:
+      - Stalker Model + Movement + Bug Fixes
+      - Visual for Stalker
+      - |
+        Fixed Random Steer Vessel Bug
+      - Added Stalker
+      - |
+        Added Knife Model
+      - More Test Vessels
+      - |
+        New Force etc Rewrite + Damage Grenade + First Enemy
+      - The First Commit
+    journal: {}
+  roots: [~/_dev/movement_fps]
+pushMultiRoot: {}

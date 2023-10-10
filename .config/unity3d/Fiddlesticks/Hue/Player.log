@@ -1,0 +1,635 @@
+ERROR: ld.so: object '/home/xab/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/xab/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Setting breakpad minidump AppID = 383270
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198796378175 [API loaded no]
+ERROR: ld.so: object '/home/xab/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/xab/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ramebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Setting maxVSyncInterval to 4
+Renderer: AMD Radeon RX 6750 XT (navi22, LLVM 15.0.7, DRM 3.52, 6.3.4-arch1-1)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 23.1.1
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_
+clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_
+buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
+ GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_in
+t64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device
+AudioManager: Using PulseAudio: Default Output Device
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Fabric.AudioSpline.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Fabric.AudioSpline.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Fabric.Core.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Fabric.Core.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Fabric.LoudnessMeter.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Fabric.LoudnessMeter.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Fabric.ModularSynth.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/Fabric.ModularSynth.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/curve_unity_platform_system.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/curve_unity_platform_system.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/C63.LEDL.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/C63.LEDL.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/C63.LEDL.FX.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/C63.LEDL.FX.dll into Unity Child Domain
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/System.Net.dll (this message is harmless)
+Loading /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/System.Net.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/System.dll (this message is harmless)
+Default vsync count 0
+requesting resize -1 x -1
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Using libudev for joystick management
+
+
+Importing game controller configs
+UnloadTime: 1.090000 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Changing real window size to 1920 x 1022
+Changing real window size to 1920 x 1022
+Changing real window size to 1920 x 1080
+Changing real window size to 1920 x 1080
+Changing real window size to 1920 x 1080
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7f2a5cff96c0 -> priority: 1 
+  Thread -> id: 7f2a3bfff6c0 -> priority: 1 
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.674000 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 20829.
+Total: 50.269001 ms (FindLiveObjects: 3.019000 ms CreateObjectMapping: 0.797000 ms MarkObjects: 46.379002 ms  DeleteObjects: 0.067000 ms)
+
+PRESSED TO CONTINUE
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.536000 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 24464.
+Total: 27.631001 ms (FindLiveObjects: 1.628000 ms CreateObjectMapping: 0.439000 ms MarkObjects: 25.467001 ms  DeleteObjects: 0.089000 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.737000 ms
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 23216.
+Total: 28.091000 ms (FindLiveObjects: 1.747000 ms CreateObjectMapping: 0.415000 ms MarkObjects: 25.695000 ms  DeleteObjects: 0.223000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.700000 ms
+
+Unloading 157 unused Assets to reduce memory usage. Loaded Objects now: 25571.
+Total: 28.254000 ms (FindLiveObjects: 1.759000 ms CreateObjectMapping: 0.482000 ms MarkObjects: 25.572001 ms  DeleteObjects: 0.432000 ms)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.279000 ms
+
+Unloading 289 unused Assets to reduce memory usage. Loaded Objects now: 29086.
+Total: 31.516998 ms (FindLiveObjects: 1.872000 ms CreateObjectMapping: 0.575000 ms MarkObjects: 28.131001 ms  DeleteObjects: 0.933000 ms)
+
+Platform assembly: /home/xab/.local/share/Steam/steamapps/common/Hue/Hue_Data/Managed/System.Xml.dll (this message is harmless)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.917000 ms
+
+Unloading 155 unused Assets to reduce memory usage. Loaded Objects now: 25654.
+Total: 29.862000 ms (FindLiveObjects: 1.627000 ms CreateObjectMapping: 0.437000 ms MarkObjects: 27.333000 ms  DeleteObjects: 0.454000 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.182000 ms
+
+Unloading 324 unused Assets to reduce memory usage. Loaded Objects now: 22642.
+Total: 30.192999 ms (FindLiveObjects: 1.740000 ms CreateObjectMapping: 0.406000 ms MarkObjects: 26.969999 ms  DeleteObjects: 1.070000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.165000 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 25694.
+Total: 31.472002 ms (FindLiveObjects: 1.761000 ms CreateObjectMapping: 0.401000 ms MarkObjects: 29.138000 ms  DeleteObjects: 0.165000 ms)
+
+Unlocking Achievement:UNLOCK_AQUA
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Received stats and achievements from Steam
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Achievement 'UNLOCK_AQUA' unlocked!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.741000 ms
+
+Unloading 295 unused Assets to reduce memory usage. Loaded Objects now: 22609.
+Total: 31.039999 ms (FindLiveObjects: 1.636000 ms CreateObjectMapping: 0.433000 ms MarkObjects: 27.680000 ms  DeleteObjects: 1.280000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.901000 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 25708.
+Total: 30.418999 ms (FindLiveObjects: 1.778000 ms CreateObjectMapping: 0.429000 ms MarkObjects: 28.042000 ms  DeleteObjects: 0.162000 ms)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.241000 ms
+
+Unloading 322 unused Assets to reduce memory usage. Loaded Objects now: 23422.
+Total: 32.145000 ms (FindLiveObjects: 1.913000 ms CreateObjectMapping: 0.452000 ms MarkObjects: 28.754000 ms  DeleteObjects: 1.016000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.909000 ms
+
+Unloading 156 unused Assets to reduce memory usage. Loaded Objects now: 25743.
+Total: 36.871998 ms (FindLiveObjects: 2.534000 ms CreateObjectMapping: 0.662000 ms MarkObjects: 33.296001 ms  DeleteObjects: 0.372000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.517000 ms
+
+Unloading 319 unused Assets to reduce memory usage. Loaded Objects now: 22734.
+Total: 31.486000 ms (FindLiveObjects: 1.720000 ms CreateObjectMapping: 0.416000 ms MarkObjects: 28.217001 ms  DeleteObjects: 1.126000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.005000 ms
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 25782.
+Total: 31.734001 ms (FindLiveObjects: 1.708000 ms CreateObjectMapping: 0.425000 ms MarkObjects: 29.224001 ms  DeleteObjects: 0.371000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.230000 ms
+
+Unloading 319 unused Assets to reduce memory usage. Loaded Objects now: 22771.
+Total: 28.632999 ms (FindLiveObjects: 1.578000 ms CreateObjectMapping: 0.432000 ms MarkObjects: 25.539000 ms  DeleteObjects: 1.075000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.585000 ms
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 25820.
+Total: 32.359997 ms (FindLiveObjects: 1.844000 ms CreateObjectMapping: 0.443000 ms MarkObjects: 29.676001 ms  DeleteObjects: 0.389000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+VO Finished: VO/Aqua
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+VO Finished: VO/Aqua
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.452000 ms
+
+Unloading 319 unused Assets to reduce memory usage. Loaded Objects now: 22808.
+Total: 31.746000 ms (FindLiveObjects: 1.656000 ms CreateObjectMapping: 0.422000 ms MarkObjects: 28.586000 ms  DeleteObjects: 1.074000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.808000 ms
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 25857.
+Total: 28.385000 ms (FindLiveObjects: 1.639000 ms CreateObjectMapping: 0.416000 ms MarkObjects: 25.879000 ms  DeleteObjects: 0.442000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.922000 ms
+
+Unloading 319 unused Assets to reduce memory usage. Loaded Objects now: 22846.
+Total: 29.655001 ms (FindLiveObjects: 1.699000 ms CreateObjectMapping: 0.423000 ms MarkObjects: 26.483000 ms  DeleteObjects: 1.041000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.122000 ms
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 25895.
+Total: 31.934999 ms (FindLiveObjects: 1.741000 ms CreateObjectMapping: 0.431000 ms MarkObjects: 29.348001 ms  DeleteObjects: 0.406000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.785000 ms
+
+Unloading 319 unused Assets to reduce memory usage. Loaded Objects now: 22884.
+Total: 33.018997 ms (FindLiveObjects: 2.636000 ms CreateObjectMapping: 0.611000 ms MarkObjects: 28.826000 ms  DeleteObjects: 0.937000 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.102000 ms
+
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 25933.
+Total: 31.941999 ms (FindLiveObjects: 1.674000 ms CreateObjectMapping: 0.501000 ms MarkObjects: 29.348001 ms  DeleteObjects: 0.409000 ms)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.170000 ms
+
+Unloading 287 unused Assets to reduce memory usage. Loaded Objects now: 29474.
+Total: 31.452999 ms (FindLiveObjects: 2.183000 ms CreateObjectMapping: 0.682000 ms MarkObjects: 27.643999 ms  DeleteObjects: 0.935000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unlocking Achievement:CHANGE_COLOUR
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Achievement 'CHANGE_COLOUR' unlocked!
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.069000 ms
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 26099.
+Total: 32.489002 ms (FindLiveObjects: 1.923000 ms CreateObjectMapping: 0.475000 ms MarkObjects: 29.468000 ms  DeleteObjects: 0.614000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+VO Finished: VO/Water
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+VO Finished: VO/Water
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.131000 ms
+
+Unloading 127 unused Assets to reduce memory usage. Loaded Objects now: 24781.
+Total: 31.514999 ms (FindLiveObjects: 1.662000 ms CreateObjectMapping: 0.444000 ms MarkObjects: 28.593000 ms  DeleteObjects: 0.807000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.392000 ms
+
+Unloading 228 unused Assets to reduce memory usage. Loaded Objects now: 23486.
+Total: 32.340000 ms (FindLiveObjects: 1.743000 ms CreateObjectMapping: 0.386000 ms MarkObjects: 28.982000 ms  DeleteObjects: 1.222000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.530000 ms
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 22962.
+Total: 31.780998 ms (FindLiveObjects: 1.614000 ms CreateObjectMapping: 0.394000 ms MarkObjects: 29.193998 ms  DeleteObjects: 0.571000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.871000 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 22952.
+Total: 31.385000 ms (FindLiveObjects: 1.635000 ms CreateObjectMapping: 0.468000 ms MarkObjects: 29.181000 ms  DeleteObjects: 0.091000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.596000 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 22914.
+Total: 28.827000 ms (FindLiveObjects: 2.831000 ms CreateObjectMapping: 0.627000 ms MarkObjects: 25.289000 ms  DeleteObjects: 0.074000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.380000 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 22920.
+Total: 35.056000 ms (FindLiveObjects: 2.646000 ms CreateObjectMapping: 0.451000 ms MarkObjects: 31.820000 ms  DeleteObjects: 0.131000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.011000 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 23484.
+Total: 29.887001 ms (FindLiveObjects: 1.627000 ms CreateObjectMapping: 0.388000 ms MarkObjects: 27.684999 ms  DeleteObjects: 0.181000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.756000 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 23451.
+Total: 51.918999 ms (FindLiveObjects: 2.312000 ms CreateObjectMapping: 0.495000 ms MarkObjects: 49.042999 ms  DeleteObjects: 0.062000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.583000 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 23188.
+Total: 31.739998 ms (FindLiveObjects: 1.628000 ms CreateObjectMapping: 0.401000 ms MarkObjects: 29.549002 ms  DeleteObjects: 0.152000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.161000 ms
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 23140.
+Total: 29.586000 ms (FindLiveObjects: 2.234000 ms CreateObjectMapping: 0.466000 ms MarkObjects: 26.628000 ms  DeleteObjects: 0.250000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.549000 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 23154.
+Total: 30.037001 ms (FindLiveObjects: 2.185000 ms CreateObjectMapping: 0.485000 ms MarkObjects: 27.032999 ms  DeleteObjects: 0.327000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.244000 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 23697.
+Total: 28.737999 ms (FindLiveObjects: 1.662000 ms CreateObjectMapping: 0.446000 ms MarkObjects: 26.323000 ms  DeleteObjects: 0.299000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.477000 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 25615.
+Total: 29.079000 ms (FindLiveObjects: 1.886000 ms CreateObjectMapping: 0.419000 ms MarkObjects: 26.642000 ms  DeleteObjects: 0.126000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.719000 ms
+
+Unloading 209 unused Assets to reduce memory usage. Loaded Objects now: 25372.
+Total: 36.710003 ms (FindLiveObjects: 3.174000 ms CreateObjectMapping: 0.533000 ms MarkObjects: 31.971998 ms  DeleteObjects: 1.022000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.420000 ms
+
+Unloading 211 unused Assets to reduce memory usage. Loaded Objects now: 25390.
+Total: 31.394001 ms (FindLiveObjects: 2.322000 ms CreateObjectMapping: 0.470000 ms MarkObjects: 27.541000 ms  DeleteObjects: 1.054000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.309000 ms
+
+Unloading 211 unused Assets to reduce memory usage. Loaded Objects now: 25408.
+Total: 30.278999 ms (FindLiveObjects: 2.181000 ms CreateObjectMapping: 0.470000 ms MarkObjects: 26.601000 ms  DeleteObjects: 1.020000 ms)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+StoreStats - success
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

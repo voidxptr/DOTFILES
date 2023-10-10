@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginStats>
+  <Plugin type="LXVST" id="1131572323" lru="1695067037" use-count="9"/>
+  <Plugin type="LV2" id="urn:ardour:a-reverb" lru="1695065399" use-count="4"/>
+  <Plugin type="LV2" id="urn:ardour:a-fluidsynth" lru="1695066584" use-count="3"/>
+  <Plugin type="LV2" id="urn:ardour:a-eq" lru="1695066714" use-count="1"/>
+  <Plugin type="LV2" id="https://community.ardour.org/node/7596" lru="1696092583" use-count="4"/>
+  <Plugin type="LV2" id="http://zynaddsubfx.sourceforge.net" lru="1696092492" use-count="1"/>
+  <Plugin type="LV2" id="http://linuxsampler.org/plugins/linuxsampler" lru="1696092525" use-count="1"/>
+  <Plugin type="LV2" id="http://kxstudio.sf.net/carla/plugins/carlarack" lru="1695065793" use-count="4"/>
+</PluginStats>

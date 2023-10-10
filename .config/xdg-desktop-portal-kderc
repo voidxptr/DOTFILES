@@ -1,0 +1,10 @@
+[FileDialogSize]
+1920x1080 screen: Height=808
+1920x1080 screen: Width=923
+DP-1 Height 1920x1080 DP-1=600
+DP-1 Width 1920x1080 DP-1=980
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/lmms/samples/soundfonts/Essential Keys-sforzando-v9.6.sf2,file:$HOME/Downloads/archbang-summer-beta-2306-x86_64.iso,file:$HOME/Downloads/archlabs-2023.06.07-x86_64.iso,file:$HOME/Downloads/antiX-22-runit_386-base.iso,file:$HOME/Downloads/antiX-22_386-full.iso,file:$HOME/Downloads/crystal-live-2023-03-16-x86_64.iso,file:$HOME/ivan_d.pdf,file:$HOME/ivan_d.odt,file:$HOME/Downloads/reeeee.png,file:$HOME/reeeee.png,file:$HOME/ChromeSetup.exe,file:$HOME/Firefox Setup 115.0b6.exe,file:$HOME/blender/_/fuck/fuckxab_.png.png,file:$HOME/blender/_/fuck/fuck_1080.png,file:$HOME/blender/_/amazon prime/fleshBezoz/openNeNoor.jpg
+Recent URLs[$e]=file:$HOME/lmms/,file:$HOME/Downloads/,file:$HOME/,file:$HOME/thehunt/,file:$HOME/lmms/projects/ringrones/,file:$HOME/lmms/projects/,file:$HOME/blender/_/fuck/,file:$HOME/blender/_/amazon prime/fleshBezoz/,file:$HOME/blender/_/,file:$HOME/blender/_/smurf/
+detailViewIconSize=48

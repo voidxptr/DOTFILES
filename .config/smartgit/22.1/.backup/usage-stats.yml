@@ -1,0 +1,19 @@
+header: {started: 1677280070882, uid: x297336458, licenseType: evaluation, build: 19259,
+  os: linux, osv: 6.2.5-arch1-1}
+stats:
+  started: {invocations: 7, invocationLast: 20230315, invocationDays: 4}
+  system.os: {invocations: 7, invocationLast: 20230315, invocationDays: 4}
+  system.os.name.linux: {invocations: 7, invocationLast: 20230315, invocationDays: 4}
+  system.os.version.linux/6.1.8-arch1-1: {invocations: 6, invocationLast: 20230302,
+    invocationDays: 3}
+  system.java.version.17.0.3: {invocations: 7, invocationLast: 20230315, invocationDays: 4}
+  i18n.locale.<null>: {invocations: 7, invocationLast: 20230315, invocationDays: 4}
+  bundledGit.check: {invocations: 7, invocationLast: 20230315, invocationDays: 4}
+  bundledGit.check.shouldBeUsed: {invocations: 7, invocationLast: 20230315, invocationDays: 4}
+  preferences.mainWindow.std: {invocations: 6, invocationLast: 20230315, invocationDays: 4}
+  preferences.theme.auto: {invocations: 6, invocationLast: 20230315, invocationDays: 4}
+  window.std: {invocations: 6, invocationLast: 20230315, invocationDays: 4}
+  changesview.syntax.<unknown>: {invocations: 28, invocationLast: 20230315, invocationDays: 4}
+  action.commit.std: {invocations: 8, invocationLast: 20230302, invocationDays: 3}
+  system.os.version.linux/6.2.5-arch1-1: {invocations: 1, invocationLast: 20230315,
+    invocationDays: 1}
